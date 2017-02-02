@@ -1,3 +1,15 @@
+@font-face {
+    font-family: Lobster;
+    src: url(Lobster_1.3.otf);
+}
+@font-face {
+    font-family: Lobster 1.4;
+    src: url(Lobster_1_4.otf);
+}
+@font-face {
+    font-family: Arvo;
+    src: url(Arvo-Italic.ttf);
+}
 body {
 Margin:0;
 font-family: 'Arvo';
